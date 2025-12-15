@@ -94,13 +94,25 @@
 
 ## API 提供状況（公式 / 間接）
 
-| ツール | API（公式） | API（サードパーティ / 間接） | 根拠 |
-|------|-----------|----------------------------|------|
-| **HeyGen** | ✅ あり | － | HeyGen の API 料金ページ・公式ドキュメントに API プラン、制限、利用条件が明記されている（HeyGen） |
-| **AKOOL** | ✅ あり | － | AKOOL の OpenAPI / 価格ページにて API 提供とモデル別 credit 課金が明記されている（AKOOL） |
-| **Vidnoz** | ✅ あり | － | 「Vidnoz Open API」ページおよび認証ドキュメントが公式に存在（Vidnoz） |
-| **Clipfly** | ⚠️ 確認できず | － | 公式サイトは確認できるが、公開された API ドキュメントは確認できず（Clipfly） |
-| **DomoAI** | ✅ あり（Enterprise API） | －（※非公式 API ラッパーは存在） | 公式の Enterprise API ドキュメントが存在し、API キー取得手順が明記されている（DomoAI） |
-| **Kling** | ⚠️ 不明（公式 API は未確認） | ✅ あり（例：Segmind / PiAPI など） | Kling を内部的に利用して動画生成 API を提供している第三者サービスが存在（Segmind など） |
-| **Sora（OpenAI）** | ✅ あり | － | OpenAI Platform の公式ドキュメントに Sora 2 モデルおよび動画生成ガイドが掲載されている（OpenAI Platform） |
-| **Nano Banana（Gemini Image）** | ✅ あり（Gemini API） | － | Gemini API の画像生成ドキュメント内に「Nano Banana」モデルが明記されている（Google AI for Developers） |
+## API 提供状況（公式 / サードパーティ）
+
+| ツール | **API（公式）** | **API（サードパーティ / 間接）** |　|
+|------|---------------:|-------------------------------:|------|
+| **HeyGen** | ✅ あり | － | HeyGen の API 料金ページ・公式ドキュメントに API プラン、制限、利用条件が明記（[HeyGen][1]） |
+| **AKOOL** | ✅ あり | － | AKOOL の OpenAPI / 価格ページにて API 提供とモデル別 credit 課金が明記（[AKOOL][2]） |
+| **Vidnoz** | ✅ あり | － | 「Vidnoz Open API」ページおよび認証ドキュメントが公式に存在（[Vidnoz][3]） |
+| **Clipfly** | ⚠️ 確認できず（公開 API ドキュメント未確認） | － | 公式サイトは確認できるが、API ドキュメントは確認できず（[Clipfly][4]） |
+| **DomoAI** | ✅ あり（Enterprise API） | －（※非公式 API ラッパーは存在） | 公式の Enterprise API ドキュメントが存在し、API キー取得手順が明記（[DomoAI][5]） |
+| **Kling** | ⚠️ 公式 API は未確認 | ✅ あり（Segmind / PiAPI など） | Kling を内部的に利用して動画生成 API を提供している第三者サービスが存在（[Segmind][6]） |
+| **Sora（OpenAI）** | ✅ あり | － | OpenAI Platform に Sora 2 モデルおよび動画生成ガイドが掲載（[OpenAI Platform][7]） |
+| **Nano Banana（Gemini Image）** | ✅ あり（Gemini API） | － | Gemini API の画像生成ドキュメント内に「Nano Banana」モデルが明記（[Google AI for Developers][8]） |
+
+[1]: https://www.heygen.com/api-pricing?utm_source=chatgpt.com "HeyGen API Pricing & Docs"
+[2]: https://akool.com/openapi?utm_source=chatgpt.com "AKOOL Open API"
+[3]: https://www.vidnoz.com/openapi.html?utm_source=chatgpt.com "Vidnoz Open API"
+[4]: https://www.clipfly.ai/?utm_source=chatgpt.com "Clipfly - AI Creative Platform"
+[5]: https://docs.domoai.app/?utm_source=chatgpt.com "DomoAI Enterprise API"
+[6]: https://www.segmind.com/models/kling-image2video/api?utm_source=chatgpt.com "Kling Image-to-Video API (Segmind)"
+[7]: https://platform.openai.com/docs/models/sora-2?utm_source=chatgpt.com "Sora 2 Model | OpenAI API"
+[8]: https://ai.google.dev/gemini-api/docs/image-generation?utm_source=chatgpt.com "Image generation with Gemini (Nano Banana)"
+
