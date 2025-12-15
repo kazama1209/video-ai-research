@@ -114,3 +114,14 @@
 [7]: https://platform.openai.com/docs/models/sora-2?utm_source=chatgpt.com "Sora 2 Model | OpenAI API"
 [8]: https://ai.google.dev/gemini-api/docs/image-generation?utm_source=chatgpt.com "Image generation with Gemini (Nano Banana)"
 
+## まとめ
+
+* 映像生成 → Heygen
+* 自動音声（TTS）生成 → ElevenLabs もしくは Azure Neural TTS
+
+あたりが有力そう。
+
+* HeyGen
+  * https://www.youtube.com/watch?v=4fbIlcJjxbY
+* ElevenLabs
+  * https://www.youtube.com/watch?v=AX1jgfCOaNw
