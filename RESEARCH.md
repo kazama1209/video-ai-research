@@ -122,10 +122,15 @@
 あたりが有力そう。
 
 * HeyGen
-  * https://www.youtube.com/watch?v=4fbIlcJjxbY
+  * 【Heygenの使い方】自分の分身AIアバターに入力した日本語を喋らす
+    * https://www.youtube.com/watch?v=4fbIlcJjxbY
 * ElevenLabs
-  * https://www.youtube.com/watch?v=AX1jgfCOaNw
-  * https://www.youtube.com/watch?v=yX-V0QAFUgg
+  * 音声AI（ElevenLabs）で自分の声をクローンして英語をしゃべらせたら、とてもいい感じだった件
+    * https://www.youtube.com/watch?v=MuoOnN0rd5o&t=63s
+  * 【無料】流暢に日本語を喋るAI音声生成「ElevenLabs」が声優としてAI アニメや実況に使えるぞ！！
+    * https://www.youtube.com/watch?v=AX1jgfCOaNw
+  * 【無料】凄すぎる！音声AIツールで日本語が上手い、厳選した３つのサービスを実演解説！
+    * https://www.youtube.com/watch?v=yX-V0QAFUgg
 
 実際の使用動画を見ても比較的良さげ。
 クオリティはそこまで重視しない量産志向であれば HeyGen だけで事足りる可能性もアリ。
