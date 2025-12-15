@@ -117,7 +117,7 @@
 ## まとめ
 
 * 映像生成 → Heygen
-* 自動音声（TTS）生成 → ElevenLabs もしくは Azure Neural TTS
+* 自動音声（TTS）生成 → ElevenLabs、Azure Neural TTS、Google Cloud TTS
 
 あたりが有力そう。
 
