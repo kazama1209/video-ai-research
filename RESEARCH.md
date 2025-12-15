@@ -127,4 +127,5 @@
   * https://www.youtube.com/watch?v=AX1jgfCOaNw
   * https://www.youtube.com/watch?v=yX-V0QAFUgg
 
-実際の使用動画を見ても割と良さげ。
+実際の使用動画を見ても比較的良さげ。
+（ElevenLabsは直近のバージョンアップで飛躍的に進化したらしいので、今後に期待）
