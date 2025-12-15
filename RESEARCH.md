@@ -126,3 +126,5 @@
 * ElevenLabs
   * https://www.youtube.com/watch?v=AX1jgfCOaNw
   * https://www.youtube.com/watch?v=yX-V0QAFUgg
+
+実際の使用動画を見ても割と良さげ。
