@@ -144,7 +144,10 @@ ElevenLabs で試しに作ってみた音声。（無料プランだったので
 ## その他
 
 あとで以下の動画見る。
-Gemini speech generation も結構良さそう。
+Gemini speech generation、FishAudio も結構良さそう。
 
 【無料】リアルすぎてドン引き…！日本人のAI音声ツール8選を徹底比較してみました！
 https://www.youtube.com/watch?v=V61uT165m_o
+
+これAI？！30秒でできる自分の声がヤバイ…
+https://fish.audio/ja/
